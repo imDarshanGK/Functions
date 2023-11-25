@@ -1,4 +1,4 @@
-# Function with return with-arguments
+# Function with return with arguments
 Function with return with arguments
 
 program 1: squaare and cube
