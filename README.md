@@ -247,3 +247,6 @@ Program 6: Simple interest and Rectangle and Circle
            Enter radius:2
            Area= 12.568 circumfarence= 12.568
            
+# sum and factorial
+
+           p= 6 q= 720
