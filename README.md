@@ -281,3 +281,39 @@ Example 1:
            factorial= 25852016738884976640000
            factorial= 620448401733239439360000
            factorial= 15511210043330985984000000
+           Enter a number to find factorial: 10
+           factorial= 1
+           factorial= 2
+           factorial= 6
+           factorial= 24
+           factorial= 120
+           factorial= 720
+           factorial= 5040
+           factorial= 40320
+           factorial= 362880
+           factorial= 3628800
+           Enter a number to find factorial: 5
+           factorial= 1
+           factorial= 2
+           factorial= 6
+           factorial= 24
+           factorial= 120
+
+Example 2:
+
+           Enter a number to find factorial: 5
+           factorial= 1
+           factorial= 2
+           factorial= 6
+           factorial= 24
+           factorial= 120
+           Enter a number to find factorial: 4
+           factorial= 1
+           factorial= 2
+           factorial= 6
+           factorial= 24
+           Enter a number to find factorial: 3
+           factorial= 1
+           factorial= 2
+           factorial= 6
+
