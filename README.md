@@ -250,3 +250,34 @@ Program 6: Simple interest and Rectangle and Circle
 # sum and factorial
 
            p= 6 q= 720
+# def Factorial
+def Factorial
+
+Example 1:
+
+           Enter a number to find factorial: 25
+           factorial= 1
+           factorial= 2
+           factorial= 6
+           factorial= 24
+           factorial= 120
+           factorial= 720
+           factorial= 5040
+           factorial= 40320
+           factorial= 362880
+           factorial= 3628800
+           factorial= 39916800
+           factorial= 479001600
+           factorial= 6227020800
+           factorial= 87178291200
+           factorial= 1307674368000
+           factorial= 20922789888000
+           factorial= 355687428096000
+           factorial= 6402373705728000
+           factorial= 121645100408832000
+           factorial= 2432902008176640000
+           factorial= 51090942171709440000
+           factorial= 1124000727777607680000
+           factorial= 25852016738884976640000
+           factorial= 620448401733239439360000
+           factorial= 15511210043330985984000000
