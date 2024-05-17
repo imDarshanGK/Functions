@@ -357,3 +357,16 @@ output:
               4*4
         4*power(4,1)=4
               4*1
+
+# Recursive Function sum of n integers using recursive function
+
+           sum of n integers using recursive function
+           def Function which calls itself repetedly till stopping condition occurs.
+           sum of n integers using recursive function.
+Recursive Function:
+
+     Function which calls itself repetedly till stopping condition occurs.
+
+output:
+   
+      result= 21
