@@ -8,11 +8,11 @@ program 1: squaare and cube
            49
            125
            
-program 2:sum and mul and average
+program 2: sum and mul and average
           
           x= 12 y= 48 z= 4.0
 
-program 3:square root and cube root and power
+program 3: square root and cube root and power
 
           p= 6.0 q= 3.0 r= 16
           
