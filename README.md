@@ -1,8 +1,18 @@
-# Function with return with arguments
+# Python Functions 🧮
+
+## Overview 🔍
+This repository contains Python programs demonstrating various types of functions. The projects showcase how functions can be utilized to perform tasks like calculations, data manipulation, and more. It serves as an educational resource to understand how functions work in Python.
+
+## Features 💡
+- Examples of different function types: simple, recursive, lambda functions, and more.
+- Clear, commented code for easy understanding.
+- Ideal for beginners learning Python functions.
+
+
+## Function with return with arguments
 Function with return with arguments
-
+```
 program 1: squaare and cube
-
            64
            36
            49
@@ -19,10 +29,11 @@ program 3: square root and cube root and power
 program 4:sum and factorial
 
           p= 1035 q= 230843697339241380472092742683027581083278564571807941132288000000000000
+```
 
-# Function with return without arguments
+## Function with return without arguments
 solution
-
+```
 Program 1: Square and Cube
 
           Enter a number to find cube:2
@@ -60,10 +71,11 @@ Program 4: Sum and mul and average
             Enter b:3
             Enter c:1
             x= 26 y= 315 z= 2.6666666666666665
+```
 
-# Function without return with arguments
+## Function without return with arguments
 Function without return with arguments.
-
+```
 Program :1}cube and square
 
            Cube= 8
@@ -117,13 +129,16 @@ Program :6}sum and factorial
          Enter d:6
          factorial= 2
          factorial= 720
-# Function without return without arguments
+```
+
+## Function without return without arguments
 Function without return without arguments.
 
 Funtions defination:
-
-    It is the group statement this excuited when function calls.
-
+```
+It is the group statement this excuited when function calls.
+```
+```
 Program 1)Good Morning
 
             Good Morning
@@ -246,137 +261,140 @@ Program 6: Simple interest and Rectangle and Circle
            
            Enter radius:2
            Area= 12.568 circumfarence= 12.568
-           
-# sum and factorial
+  ```
 
-           p= 6 q= 720
-# def Factorial
+## def Factorial
 def Factorial
-
+```
 Example 1:
 
-           Enter a number to find factorial: 25
-           factorial= 1
-           factorial= 2
-           factorial= 6
-           factorial= 24
-           factorial= 120
-           factorial= 720
-           factorial= 5040
-           factorial= 40320
-           factorial= 362880
-           factorial= 3628800
-           factorial= 39916800
-           factorial= 479001600
-           factorial= 6227020800
-           factorial= 87178291200
-           factorial= 1307674368000
-           factorial= 20922789888000
-           factorial= 355687428096000
-           factorial= 6402373705728000
-           factorial= 121645100408832000
-           factorial= 2432902008176640000
-           factorial= 51090942171709440000
-           factorial= 1124000727777607680000
-           factorial= 25852016738884976640000
-           factorial= 620448401733239439360000
-           factorial= 15511210043330985984000000
-           Enter a number to find factorial: 10
-           factorial= 1
-           factorial= 2
-           factorial= 6
-           factorial= 24
-           factorial= 120
-           factorial= 720
-           factorial= 5040
-           factorial= 40320
-           factorial= 362880
-           factorial= 3628800
-           Enter a number to find factorial: 5
-           factorial= 1
-           factorial= 2
-           factorial= 6
-           factorial= 24
-           factorial= 120
+Enter a number to find factorial: 25
+factorial= 1
+factorial= 2
+factorial= 6
+factorial= 24
+factorial= 120
+factorial= 720
+factorial= 5040
+factorial= 40320
+factorial= 362880
+factorial= 3628800
+factorial= 39916800
+factorial= 479001600
+factorial= 6227020800
+factorial= 87178291200
+factorial= 1307674368000
+factorial= 20922789888000
+factorial= 355687428096000
+factorial= 6402373705728000
+factorial= 121645100408832000
+factorial= 2432902008176640000
+factorial= 51090942171709440000
+factorial= 1124000727777607680000
+factorial= 25852016738884976640000
+factorial= 620448401733239439360000
+factorial= 15511210043330985984000000
+
+Enter a number to find factorial: 10
+factorial= 1
+factorial= 2
+factorial= 6
+factorial= 24
+factorial= 120
+factorial= 720
+factorial= 5040
+factorial= 40320
+factorial= 362880
+factorial= 3628800
+
+Enter a number to find factorial: 5
+factorial= 1
+factorial= 2
+factorial= 6
+factorial= 24
+factorial= 120
 
 Example 2:
 
-           Enter a number to find factorial: 5
-           factorial= 1
-           factorial= 2
-           factorial= 6
-           factorial= 24
-           factorial= 120
-           Enter a number to find factorial: 4
-           factorial= 1
-           factorial= 2
-           factorial= 6
-           factorial= 24
-           Enter a number to find factorial: 3
-           factorial= 1
-           factorial= 2
-           factorial= 6
+Enter a number to find factorial: 5
+factorial= 1
+factorial= 2
+factorial= 6
+factorial= 24
+factorial= 120
 
-# Factorial of n using recursive function
+Enter a number to find factorial: 4
+factorial= 1
+factorial= 2
+factorial= 6
+factorial= 24
+
+Enter a number to find factorial: 3
+factorial= 1
+factorial= 2
+factorial= 6
+```
+
+## Factorial of n using recursive function
 Factorial of n using recursive function
+```
+Explanation  :   
+factorial(7)
+7*factorial(6)=5040
+   720*7
+6*factorial(5)=720
+   120*6
+5*factorial(4)=120
+   24*5
+4*factorial(3)=24
+   6*4
+3*factorial(2)=6
+   2*1
+2*factorial(1)=2
 
-Explanation  :
-      
-      factorial(7)
-      7*factorial(6)=5040
-              720*7
-      6*factorial(5)=720
-              120*6
-      5*factorial(4)=120
-              24*5
-      4*factorial(3)=24
-              6*4
-      3*factorial(2)=6
-              2*1
-      2*factorial(1)=2
 output:
-
     Result= 5040
+```
 
-# Finding power using recursive function
+## Finding power using recursive function
 Finding power using recursive function 
-
-
+```
 output:
-   
-      result= 1024
- Explanation:
-     
-       power(4,5)=1024
-              256*4
-       4*power(4,4)=256
-              64*4
-       4*power(4,3)=64
-              16*4
-       4*power(4,2)=16
-              4*4
-        4*power(4,1)=4
-              4*1
+   result= 1024
 
-# Recursive Function sum of n integers using recursive function
+ Explanation:  
+power(4,5)=1024
+   256*4
+4*power(4,4)=256
+   64*4
+4*power(4,3)=64
+   16*4
+4*power(4,2)=16
+   4*4
+4*power(4,1)=4
+   4*1
+```
 
-           sum of n integers using recursive function
-           def Function which calls itself repetedly till stopping condition occurs.
-           sum of n integers using recursive function.
-Recursive Function:
-
-     Function which calls itself repetedly till stopping condition occurs.
-
+## Recursive Function sum of n integers using recursive function
+```
+sum of n integers using recursive function
+def Function which calls itself repetedly till stopping condition occurs.
+sum of n integers using recursive function.
+```
+## Recursive Function:
+```
+Function which calls itself repetedly till stopping condition occurs.
+```
+```
 output:
-   
-      result= 21
-
-# square and cube
+   result= 21
+```
+## square and cube
 square and cube
-
+```
 output:
-
-      27
-      4
-      9
-      64
+27
+4
+9
+64
+```
